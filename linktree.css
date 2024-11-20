@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    margin: auto;
+    background-color: rgb(202, 240, 255);
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 400px;
+}
+
+.Link{
+    color: rgb(0, 0, 0);
+    font-style:italic
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 0 40px 0 40px;
+    border:solid black;
+}
+
+button{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    height: 30px;
+    width: 300px;
+    color: white;
+    background-color: black;
+    border: solid black 5px;
+    border-radius: 0 15px 0 15px;
+}

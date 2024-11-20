@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+	<head>
+		<title> Rih's Linktree </title>
+		<link rel="stylesheet" href="linktree.css"
+	</head>
+	<body>
+		<br>
+		<img src="C:\Users\Rihs\Desktop\Linktree\123.jpg" width="150">
+		<h1> Rihards Usāns </h1>
+		<h2> Game Developer, Aspiring Software Developer - Hobbyist & More</h2>
+		<p> 🌟 Welcome to my Linktree! 🌟 <br>
+		Here, you’ll find all the key links to explore my work, passions, and projects. 
+		Whether you're here for creative projects, collaboration opportunities, or just to make friends, you're in the right place!
+		<br>
+		Take a look around, and don’t hesitate to reach out. Thanks for stopping by, and happy exploring! 🚀✨ </p>
+		<br>
+		<a href="https://www.instagram.com/jo.jo.starr/"><button> Instagram - Game Dev </button>
+		</a>
+		<br><br>
+		<a href="https://www.instagram.com/rihss/"><button>Instagram - Personal</button>
+		</a>
+		<br><br>
+		<a href="https://github.com/Karlons"><button>GitHub</button>
+		</a>
+		<br><br>
+		<a href="https://discord.gg/RacfRQSGz7"><button>Discord</button>
+		</a>
+		<br><br>
+		<a href="https://www.facebook.com/rihards.usans/?locale=lv_LV"><button>Facebook</button>
+		</a>
+		<br><br>
+		<a href="https://www.depop.com/karldoe/"><button>Depop</button>
+		</a>
+		<br><br>
+		<h6> Made by Rihards Usāns </h6>
+	</body>
+</html>
