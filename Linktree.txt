@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<br>
-		<img src="123.jpg" width="150">
+		<img src="https://karlons.github.io/Linktree/123.jpg" width="150">
 		<h1> Rihards Usāns </h1>
 		<h2> Game Developer, Aspiring Software Developer - Hobbyist & More</h2>
 		<p> 🌟 Welcome to my Linktree! 🌟 <br>
